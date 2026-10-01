@@ -10,16 +10,6 @@ A PHP/MySQL job-search web application extended from an existing codebase as a p
 - Troubleshot application behavior and validated key user workflows.
 - Performed final functional and end-to-end testing of the completed application.
 
-## Technologies
-
-- PHP
-- MySQL / SQL
-- HTML & CSS
-- JavaScript
-- Bootstrap
-- REST API integration
-- Composer
-
 ## Main Application Areas
 
 The project includes user authentication, job-search workflows, resume-related functionality, application activity tracking, account management, and API-backed application features.
