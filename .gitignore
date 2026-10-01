@@ -1,0 +1,20 @@
+# Environment & secrets — never commit these
+.env
+.env.local
+.env.production
+
+uploads/resumes/*
+!uploads/resumes/.htaccess
+!uploads/resumes/.gitkeep
+
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+vendor/
+*.log
+logs/
+*.tmp
+*.cache
