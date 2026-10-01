@@ -1,0 +1,8 @@
+PHP
+MySQL
+Composer
+smalot/pdfparser ^2.12
+Bootstrap 5
+jQuery
+External job-search API credentials
+AI API credentials for generation features
